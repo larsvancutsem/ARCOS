@@ -26,9 +26,11 @@ format](https://wpinvestigative.github.io/arcos/#download-the-raw-data),
 as well as via a public [RESTful
 API](https://wpinvestigative.github.io/arcos/).
 
-# Run the Shiny application locally
+# the Shiny application
 
-Enter in your R console
+## Looks as follows:
+
+![screencapture](capture.png) \#Enter in your R console:
 
 ``` r
 runGitHub( "ARCOS", "larsvancutsem")

@@ -15,8 +15,10 @@ Here are the links to the articles on the [lobbying efforts targeted towards the
 
 The data are available in [unfiltered format](https://wpinvestigative.github.io/arcos/#download-the-raw-data), as well as via a public [RESTful API](https://wpinvestigative.github.io/arcos/).
 
-# Run the Shiny application locally
-Enter in your R console
+# the Shiny application
+## Looks as follows:
+![screencapture](capture.png)
+#Enter in your R console:
 ```{r, eval=FALSE}
 runGitHub( "ARCOS", "larsvancutsem")
 ```
