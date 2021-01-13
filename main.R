@@ -14,7 +14,7 @@ source("data.R")
 
 
 # Shiny server application
-source("ui.R"); shinyApp(ui, server)
+source("app.R"); shinyApp(ui, server)
 
 
 # Publish markdown file
