@@ -30,7 +30,7 @@ API](https://wpinvestigative.github.io/arcos/).
 
 ## Looks as follows:
 
-![screencapture](capture.png) \#Enter in your R console:
+![screencapture](capture.png) \# Enter in your R console:
 
 ``` r
 runGitHub( "ARCOS", "larsvancutsem")
